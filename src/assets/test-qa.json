@@ -1,0 +1,324 @@
+[
+  {
+    "id": "1",
+    "question": {
+      "text": "Кто из команды просил другого коллегу купить несколько банок пива охота крепкая.",
+      "imageUrl": "/march/QA/beer.webp",
+      "audioUrl2": "/march/Sound/1_2.wav"
+    },
+    "answer": {
+      "text": "Наташа"
+    }
+  },
+  {
+    "id": "2",
+    "question": {
+      "text": "Ты - самая популярная в России в две тысячи двадцать пятом году. О ком из вас идет речь?",
+      "audioUrl2": "/march/Sound/samaya_2.wav"
+    },
+    "answer": {
+      "text": "София - самое популярное женское имя в России в 2025 году"
+    }
+  },
+  {
+    "id": "3",
+    "question": {
+      "text": "Какая фраза (девиз) вырезана?",
+      "imageUrl": "/march/QA/s-blob-v1-IMAGE-Bjkwg18G5wg.png",
+      "audioUrl2": "/march/Sound/deviz_2.wav"
+    },
+    "answer": {
+      "text": "Никто кроме вас!"
+    }
+  },
+  {
+    "id": "4",
+    "question": {
+      "text": "Кто изображен на картинке ниже?",
+      "imageUrl": "/march/QA/s-blob-v1-IMAGE-WzJQI2RL0-k.png",
+      "audioUrl2": "/march/Sound/kto_2.wav"
+    },
+    "answer": {
+      "text": "Лена",
+      "imageUrl": "/march/QA/s-blob-v1-IMAGE-ebefow1RH4Q.png"
+    }
+  },
+  {
+    "id": "5",
+    "question": {
+      "text": "В понедельник было 20 жалоб.\nВо вторник — 5.\nВ среду — 0.\nНичего не чинили.\nПочему жалобы исчезли?",
+      "audioUrl2": "/march/Sound/zhaloba.wav"
+    },
+    "answer": {
+      "text": "Пользователи привыкли."
+    }
+  },
+  {
+    "id": "6",
+    "question": {
+      "text": "Что невозможно отложить, даже если очень хочется?\nЗал:\n— релиз\n— интеграцию\n— выкладку\n",
+      "audioUrl2": "/march/Sound/otlozhit.wav"
+    },
+    "answer": {
+      "text": "8 марта. Есть вещи, которые приходят по расписанию, а не по спринту"
+    }
+  },
+  {
+    "id": "7",
+    "question": {
+      "text": "Чем заканчивается день и ночь?",
+      "audioUrl2": "/march/Sound/den.wav"
+    },
+    "answer": {
+      "text": "мягким знаком"
+    }
+  },
+  {
+    "id": "8",
+    "question": {
+      "text": "Кому в нашей команде зашло бы XP? \nПодсказка 1. XP - это методология. Ее какой-то Кент придумал. \nРасшифровка: XP - Extreme Programming. Одна из agile методологий. Придумал Kent Beck.",
+      "audioUrl2": "/march/Sound/kent.wav"
+    },
+    "answer": {
+      "text": "Софа"
+    }
+  },
+  {
+    "id": "9",
+    "question": {
+      "text": "Уходя она передала не все обязанности. Кто она и что за обязанность? ",
+      "audioUrl2": "/march/Sound/aleg.wav"
+    },
+    "answer": {
+      "text": "Лена.\n Она говорила: 'Илья вам тоже Аллегрову поставит'. А он не поставил :)"
+    }
+  },
+  {
+    "id": "10",
+    "question": {
+      "text": "Она знает боли наших пользователей, следит за продом, но самое главное - знает проблемы своих любимых котиков. ",
+      "audioUrl2": "/march/Sound/kotikov.wav"
+    },
+    "answer": {
+      "text": "Настя"
+    }
+  },
+  {
+    "id": "11",
+    "question": {
+      "text": "Про кого мы когда-нить скажем - А мы помним ее еще подающей надежды?",
+      "audioUrl2": "/march/Sound/nadezhd.wav"
+    },
+    "answer": {
+      "text": "Ксюша"
+    }
+  },
+  {
+    "id": "12",
+    "question": {
+      "text": "Что за исполнитель зашифрован на картинке?",
+      "imageUrl": "/march/QA/toxic.png",
+      "audioUrl2": "/march/Sound/toxic.wav"
+    },
+    "answer": {
+      "text": "Toxi$"
+    }
+  },
+  {
+    "id": "13",
+    "question": {
+      "text": "К какой части игры SIMS относится данный котик?",
+      "imageUrl": "/march/QA/sims4.png",
+      "audioUrl2": "/march/Sound/sims.wav"
+    },
+    "answer": {
+      "text": "Sims 4"
+    }
+  },
+  {
+    "id": "14",
+    "question": {
+      "text": "Назовите имя этого лоха",
+      "imageUrl": "/march/QA/loh.png",
+      "audioUrl2": "/march/Sound/loh.wav"
+    },
+    "answer": {
+      "text": "Юрий"
+    }
+  },
+  {
+    "id": "15",
+    "question": {
+      "text": "Что такое Асцендент (ура астрология)",
+      "audioUrl2": "/march/Sound/acent.wav"
+    },
+    "answer": {
+      "text": "Это внешняя оболочка и стиль взаимодействия с миром ИЛИ то каким знаком зодиака тебя видят другие"
+    }
+  },
+  {
+    "id": "16",
+    "question": {
+      "text": "На чьи фамилию и имя получен данный ответ в картинках от поисковика . Варианты : Лена, Настя, Ксюша, Наташа, Софья",
+      "imageUrl": "/march/QA/lenaQ.png",
+      "audioUrl2": "/march/Sound/var.wav"
+    },
+    "answer": {
+      "text": "Лена",
+      "imageUrl": "/march/QA/lenaA.png"
+    }
+  },
+  {
+    "id": "17",
+    "question": {
+      "text": "Какое историческое событие стало поводом для учреждения Международного женского дня?",
+      "audioUrl2": "/march/Sound/zhenss.wav"
+    },
+    "answer": {
+      "text": "Марш пустых кастрюль в Нью-Йорке."
+    }
+  },
+  {
+    "id": "18",
+    "question": {
+      "text": "Какой цветок стал символом 8 марта — Международного женского дня?",
+      "audioUrl2": "/march/Sound/zhvetok.wav"
+    },
+    "answer": {
+      "text": "Мимоза"
+    }
+  },
+  {
+    "id": "19",
+    "question": {
+      "text": "В какой стране женщина впервые была избрана президентом?",
+      "audioUrl2": "/march/Sound/prez.wav"
+    },
+    "answer": {
+      "text": "Аргентина"
+    }
+  },
+  {
+    "id": "20",
+    "question": {
+      "text": "Какой десерт на основе безе со сливочным кремом и ягодами был назван в честь известной балерины?",
+      "audioUrl2": "/march/Sound/baler.wav"
+    },
+    "answer": {
+      "text": "Павлова"
+    }
+  },
+  {
+    "id": "21",
+    "question": {
+      "text": "Что по мнению Коко Шанель должно быть в гардеробе каждой женщины?",
+      "audioUrl2": "/march/Sound/koko.wav"
+    },
+    "answer": {
+      "text": "Маленькле черное платье"
+    }
+  },
+  {
+    "id": "22",
+    "question": {
+      "text": "Кто из женщин первой отправился в космос?",
+      "audioUrl2": "/march/Sound/kosm.wav"
+    },
+    "answer": {
+      "text": "Валентина Терешкова"
+    }
+  },
+  {
+    "id": "23",
+    "question": {
+      "text": "Какой из инструментов традиционно считается «женским» в классическом оркестре?",
+      "audioUrl2": "/march/Sound/orch.wav"
+    },
+    "answer": {
+      "text": "Арфа"
+    }
+  },
+  {
+    "id": "24",
+    "question": {
+      "text": "Какой день года выбран «Днём программиста»",
+      "audioUrl2": "/march/Sound/denG.wav"
+    },
+    "answer": {
+      "text": "256"
+    }
+  },
+  {
+    "id": "25",
+    "question": {
+      "text": "Это имя стало мемом в супергеройском кино, потому что спасло двух людей в костюмах от драки. Какое это имя?",
+      "audioUrl2": "/march/Sound/imya.wav"
+    },
+    "answer": {
+      "text": "Марта"
+    }
+  },
+  {
+    "id": "26",
+    "question": {
+      "text": "В химии один элемент крайне важен для жизни на Земле — без него большая часть живых организмов погибла бы. Какой номер у этого элемента?",
+      "audioUrl2": "/march/Sound/kislorod.wav"
+    },
+    "answer": {
+      "text": "Кислород - 8"
+    }
+  },
+  {
+    "id": "27",
+    "question": {
+      "text": "Если встреча запланирована на 5 минут, сколько она продлится?\nA) 5\nB) 15\nC) Пока не обсудим «раз уж все собрались…»",
+      "audioUrl2": "/march/Sound/raz.wav"
+    },
+    "answer": {
+      "text": "С - Пока не обсудим раз уж все собрались…"
+    }
+  },
+  {
+    "id": "28",
+    "question": {
+      "text": "Сопоставьте имена записанные иероглифами с присутствующими девушками: \nナタシャ\nレナ\nソフィヤ\nクシュシャ\nナステャ",
+      "audioUrl2": "/march/Sound/devs.wav"
+    },
+    "answer": {
+      "text": "Наташа - ナタシャ\nСофья - ソフィヤ\nНастя - ナステャ\nКсюша - クシュシャ\nЛена - レナ"
+    }
+  },
+  {
+    "id": "29",
+    "question": {
+      "text": "Найди человека на фото",
+      "imageUrl": "/march/QA/kto.jpg",
+      "audioUrl2": "/march/Sound/photo.wav"
+    },
+    "answer": {
+      "text": "Настя"
+    }
+  },
+  {
+    "id": "30",
+    "question": {
+      "text": "Угадай ребус",
+      "imageUrl": "/march/QA/shifr.jpg",
+      "audioUrl2": "/march/Sound/rebus.wav"
+    },
+    "answer": {
+      "text": "Наташа"
+    }
+  },
+  {
+    "id": "31",
+    "question": {
+      "text": "О ком идет речь?",
+      "imageUrl": "/march/QA/kto_et.png",
+      "audioUrl2": "/march/Sound/rech.wav"
+    },
+    "answer": {
+      "text": "Софа"
+    }
+  }
+]
